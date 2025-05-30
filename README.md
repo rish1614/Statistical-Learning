@@ -41,7 +41,7 @@ This internship focuses on practical and theoretical aspects of **Statistical Le
 
 ## Reading Resources
 - [An Introduction to Statistical Learning](https://www.statlearning.com/?utm_source=chatgpt.com)
-- [Probablistical Machine Learning](https://probml.github.io/pml-book/?utm_source=chatgpt.com)
+- [Probabilisti Machine Learning](https://probml.github.io/pml-book/?utm_source=chatgpt.com)
   
 ---
 
