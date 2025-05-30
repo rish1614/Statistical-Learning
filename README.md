@@ -52,3 +52,6 @@ cd Conda_Env
 conda env create -f stats_learning.yml
 conda activate stats-learning
 jupyter notebook
+## Reading Resources
+- [An Introduction to Statistical Learning](https://www.statlearning.com/?utm_source=chatgpt.com)
+- [Probablistical Machine Learning](https://probml.github.io/pml-book/?utm_source=chatgpt.com)
