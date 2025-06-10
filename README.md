@@ -36,9 +36,29 @@ This internship focuses on practical and theoretical aspects of **Statistical Le
 - Performed **model validation using RMSE and R²**
 
  Notebook: `Rishabh_Shukla_Heart_DiseaseW2.ipynb`
-
+ 
 ---
+### Week 3: Model Selection & Regularization
+- Explored Model Selection : Subset Selection,Stepwise Selection , Dimension Reduction
+- Explored regularization techniques: Ridge, Lasso, and Elastic-Net
+- Conducted feature engineering and data preprocessing for model input optimization
+- Implemented Grid Search for hyperparameter tuning
+- Provided a markdown-based theoretical explanation of the bias-variance tradeoff
+- Performed cross-validation to select optimal model parameters
+  
+ Notebook: `Rishabh_Shukla_W3.ipynb`
 
+ ---
+### Additional Task: In-Depth Ridge and Lasso Regression' Algorithm
+- Implemented Ridge Regression and Lasso Regression'algorithm from scratch using normal equation and coordinate descent method
+- Examined the effect of regularization strength (λ) on coefficient shrinkage using cross validation
+- Compared model performance for Ridge vs Lasso based on evaluation metrics
+- Visualized coefficient paths and selected features under different regularization penalties
+- Interpreted results in context of model sparsity and overfitting control
+
+ Notebook: `Rishabh_Shukla_ridge_lasso_W4.ipynb`
+
+ ---
 ## Reading Resources
 - [An Introduction to Statistical Learning](https://www.statlearning.com/?utm_source=chatgpt.com)
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/?utm_source=chatgpt.com)
