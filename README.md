@@ -38,7 +38,7 @@ This internship focuses on practical and theoretical aspects of **Statistical Le
  Notebook: `Rishabh_Shukla_Heart_DiseaseW2.ipynb`
  
 ---
-### Week 3: Model Selection & Regularization
+###  Week 3: Model Selection & Regularization
 - Explored Model Selection : **Subset Selection**,**Stepwise Selection** , **Dimension Reduction**
 - Explored regularization techniques: **Ridge**, **Lasso**, and **Elastic-Net**
 - Conducted **feature engineering** and **data preprocessing** for model input optimization
@@ -49,7 +49,7 @@ This internship focuses on practical and theoretical aspects of **Statistical Le
  Notebook: `Rishabh_Shukla_W3.ipynb`
 
  ---
-### Additional Task: In-Depth Ridge and Lasso Regression's Algorithm
+###  Additional Task: In-Depth Ridge and Lasso Regression's Algorithm
 - Implemented Ridge Regression and Lasso Regression's algorithm from scratch using **normal equation** and **coordinate descent method**
 - Examined the effect of regularization strength (λ) on coefficient shrinkage using **cross validation**
 - Compared model performance for Ridge vs Lasso based on **evaluation metrics**
@@ -57,6 +57,19 @@ This internship focuses on practical and theoretical aspects of **Statistical Le
 - Interpreted results in context of **model sparsity** and **overfitting control**
 
  Notebook: `Rishabh_Shukla_ridge_lasso_W4.ipynb`
+
+ ---
+###  Week 4: Tree-Based Methods (Regression Tree, Random Forest, XGBoost)
+- Implemented **Regression Trees from scratch** including Recursive Binary Splitting and Cost-Complexity Pruning
+- Used **cross-validation** to tune the cost-complexity parameter α and prune the tree effectively
+- Visualized model structure and residual patterns with detailed diagnostic plots
+- Built **Random Forest from scratch**, including bootstrap sampling and feature bagging
+- Implemented **XGBoost from scratch** using sequential learning on residuals with shrinkage
+- Compared all models on performance metrics (RSS, MSE, R²)
+- Tuned hyperparameters using **manual grid search** for both Random Forest and XGBoost
+- Provided theory markdowns inspired by **ISLR book** and aligned implementation with those concepts
+
+ Notebook: `Rishabh_Shukla_non_linear_w4.ipynb`
 
  ---
 ## Reading Resources
