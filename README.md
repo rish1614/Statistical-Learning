@@ -72,6 +72,51 @@ This internship focuses on practical and theoretical aspects of **Statistical Le
  Notebook: `Rishabh_Shukla_non_linear_w4.ipynb`
 
  ---
+### Week 5: Capstone Project Kick-off & Model Comparison
+- Conducted a comprehensive comparison of all previously implemented models (OLS, Ridge, Lasso, Trees, XGBoost).
+- Initiated the capstone project: defined the problem statement, scope, and initial data pipeline.
+- Established project roles and responsibilities across Data, Modelling, Validation, MLOps, and Documentation.
+- Developed the first project module for data cleaning, including schema validation tests.
+- Created a project plan and set up a Kanban board for task management and tracking.
+- Submitted Pull Request #1 containing the initial data-cleaning module.
+
+Notebook: `Rishabh_Shukla_capstone_W5.ipynb` & `Rishabh_Shukla_model_comparison_W5.ipynb
+
+---
+### Week 6: Probabilistic Modeling with Bayesian Methods
+- Studied and implemented Bayesian linear and logistic regression from theoretical principles.
+- Compared different inference techniques, focusing on Variational Inference (VI) vs. MCMC.
+- Developed Bayesian models from scratch.
+- Generated and analyzed uncertainty plots to quantify model confidence in predictions.
+
+Notebook: `Rishabh_Shukla_bayesian_modeling.ipynb`
+
+---
+### Week 7: Final Presentation Preparation
+- Synthesized all key learnings, model results, and project outcomes from the entire internship.
+- Developed a comprehensive slide deck covering the progression from foundational statistical learning theory to advanced Bayesian modeling.
+- Structured the presentation narrative to highlight the practical insights gained from applying different models to real-world datasets(Diamond Dataset).
+- Conducted rehearsals to refine the content and ensure a clear and effective final delivery.
+
+Deliverable: `Final_Presentation (PDF)`
+
+---
+### Week 8: Final Report Compilation
+- Authored the final internship report, documenting all work completed.
+- Detailed the theoretical concepts, from-scratch implementation methods, and empirical results for every model studied.
+- Formatted the entire report using LaTeX to meet academic standards, including all figures, tables, and citations.
+- Submitted the final report as the primary deliverable, summarizing the complete scope of the internship at IIT Madras.
+
+Deliverable: `Final_Report (PDF)`
+
+---
+## Core Implementation Scripts
+In addition to the weekly notebooks, the core algorithms were implemented from scratch in the following Python scripts:
+
+- **`All_Regression_Models.py`**: Contains from-scratch Python implementations of all supervised regression models covered in this internship, including OLS, Ridge, Lasso, Regression Trees, Random Forest, and XGBoost.
+- **`Probabilistic_Models.py`**: Contains from-scratch implementations of Bayesian models and their inference algorithms, including Bayesian Linear/Logistic Regression with Laplace, VI, and MCMC samplers.
+
+---
 ## Reading Resources
 - [An Introduction to Statistical Learning](https://www.statlearning.com/?utm_source=chatgpt.com)
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/?utm_source=chatgpt.com)
